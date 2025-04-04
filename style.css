@@ -174,11 +174,12 @@ span {
     background-color: #f0dcdc;
     padding: 20px 0px 15px;
     margin: 5px;
+    border: 2px solid wheat;
 }
 .box-img {
     height: 300px;
     width: 100%;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     margin-top: 1rem;
     margin-bottom: 1rem;
